@@ -1,4 +1,4 @@
-# kafka-spark--druid
+# kafka-spark-druid
 Takes a kafka stream into spark, apply transformations and sink into Druid. Everything Dockerised.
 
 This is a quickstart project that can help newbies get started on setting up the infrastructure for their big data needs. The setup consists of kafka, spark and druid and the process is automated using Docker.
